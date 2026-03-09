@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\practica01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB95159-50F3-DFA9-E206-E297929611C8}|practica01\\practica01.csproj|c:\\users\\kenne\\onedrive\\documentos\\paginas web activas\\practica01\\practica01\\migrations\\20260309044745_inicial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB95159-50F3-DFA9-E206-E297929611C8}|practica01\\practica01.csproj|solutionrelative:practica01\\migrations\\20260309044745_inicial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260309044745_Inicial1.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\practica01\\practica01\\Migrations\\20260309044745_Inicial1.cs",
+              "RelativeDocumentMoniker": "practica01\\Migrations\\20260309044745_Inicial1.cs",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\practica01\\practica01\\Migrations\\20260309044745_Inicial1.cs",
+              "RelativeToolTip": "practica01\\Migrations\\20260309044745_Inicial1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:47:46.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
